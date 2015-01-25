@@ -1,0 +1,2 @@
+Id,Submit Date,Attended,School,Shirt Size,Major,Year,Gender,First Hackathon,Gluten Free,Vegetarian,Vegan,Cutoff
+int,datetime,1 or 0,string,dtring,string,string,string,1 or 0,1 or 0,1 or 0,1 or 0,1 or 0
