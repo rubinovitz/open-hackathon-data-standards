@@ -1,0 +1,784 @@
+Agriculture
+Architecture and Planning
+Arts
+Biological Sciences
+Business
+Communications
+Computer and Information Sciences
+Education
+Engineering
+Environmental Sciences
+Health Care
+Languages and Literature
+Law
+Mathematics & Statistics
+Mechanics and Repair
+Military Science
+Philosophy and Religion
+Physical Sciences
+Protective Services
+Psychology & Counseling
+Recreation & Fitness
+Services
+Skilled Trades and Construction
+Social Sciences & Liberal Arts
+Social Services
+Transportation
+Agriculture
+Agricultural Business
+Agricultural Business and Technology
+Agricultural Economics
+Farm and Ranch Management
+Agricultural Extension Services
+Agriculture Operations
+Agricultural Mechanics and Machinery
+Agricultural Production Operations
+Animal Sciences and Husbandry
+Animal Husbandry
+Animal Sciences
+Equine Studies
+Botany and Plant Sciences
+Aquaculture
+Botany and Plant Physiology
+Plant Science
+Crop and Soil Studies
+Agronomy, Range, and Crop Science
+Crop Production
+Soil Sciences
+Food Science and Technology
+Agricultural and Food Products Processing
+Food Science
+Horticultural
+Greenhouse, Nursery, and Floristry Operations
+Horticultural Sciences
+Horticulture Business Services
+Landscaping and Groundskeeping
+Turf and Turfgrass Management
+Architecture and Planning
+Architecture Studies
+Architectural Sciences and Technology
+Architecture
+Environmental Architecture and Design
+Interior Architecture
+Landscape Architecture
+Historic Preservation and Conservation
+Planning and Development
+Land Use Planning and Development
+Real Estate Development
+Urban, Community and Regional Planning
+Arts
+Art History
+Art Studies
+Arts, Entertainment, and Media Management
+Fine and Studio Arts Management
+Music Management
+Theatre, Arts, and Media Management
+Design and Applied Arts
+Commercial and Advertising Art
+Commercial Photography
+Design and Visual Communications
+Fashion and Apparel Design
+Game and Interactive Media Design
+Graphic Design
+Illustration
+Industrial and Product Design
+Interior Design
+Film, Video, and Photography
+Cinematography and Video Production
+Film and Video Studies
+Photography
+Fine Arts
+Ceramics
+Crafts and Artisanry
+Drawing
+Fiber, Textile and Weaving
+Metal and Jewelry Arts
+Multimedia
+Painting
+Printmaking
+Sculpture
+Studio Arts
+Music
+Conducting
+Music History and Literature
+Music Performance
+Music Technology
+Music Theory and Composition
+Musical Instruments
+Voice and Opera
+Performing Arts
+Acting
+Dance
+Drama and Theatre Production
+Theatre Design
+Visual Arts
+Biological Sciences
+Anatomy
+Animal Biology
+Animal Physiology and Behavior
+Zoology and Entomology
+Biochemistry and Molecular Biology
+Bioinformatics
+Biology
+Biological and Physical Sciences
+Biology and Biological Sciences
+Biology Laboratory Technician
+Biomedical Sciences and Molecular Medicine
+Biotechnology
+Cellular Biology
+Ecology, Evolution, and Population Biology
+Ecology and Evolutionary Biology
+Epidemiology
+Marine Biology and Oceanography
+Population Biology
+Genetics
+Microbiology
+Molecular Biology
+Neuroscience and Neurobiology
+Neuroanatomy
+Neuroscience
+Pharmacology and Toxicology
+Pharmacology
+Toxicology
+Physiology and Pathology
+Exercise Physiology
+Pathology
+Physiology
+Business
+Business Management
+Business Administration and Management
+Construction Management
+Corporate Communications
+E-Commerce
+International Business
+Logistics and Supply Chain Management
+Managerial Economics
+Non-Profit and Public Management
+Office Management
+Operations Management
+Procurement and Contracts Management
+Business Support Services
+Administrative Assistant and Secretarial Science
+Clerical Services
+Customer Service Support and Call Center Operation
+Executive Assistant
+Entrepreneurship and Small Business Operations
+Entrepreneurship
+Franchise Operations
+Small Business Management
+Finance and Accounting
+Accounting
+Accounting Technician and Bookkeeping
+Actuarial Science
+Banking and Finance
+Finance
+Financial Planning
+Financial Services Marketing
+Insurance
+Investments and Securities
+Taxation
+Hospitality and Tourism Management
+Hospitality Management
+Hotel and Resort Management
+Restaurant and Food Services Management
+Tourism and Travel Services Management
+Human Resources
+Human Resources Development
+Human Resources Management
+Labor and Industrial Relations
+Organizational Behavior Studies
+Management Sciences and Information Systems
+Management Information Systems
+Management Sciences and Statistics
+Sales and Marketing
+Fashion and Apparel Merchandising
+Marketing
+Merchandising and Buying Operations
+Real Estate
+Retailing
+Selling and Sales
+Communications
+Advertising
+Communication and Media Studies
+Communications Technicians
+Digital and Print Journalism
+Broadcast Journalism
+Journalism
+Photojournalism
+Digital and Print Publishing
+Desktop Publishing and Digital Imaging Design
+Publishing
+Graphic Communications
+Animation, Video Graphics and Special Effects
+Graphic and Printing Equipment Operation
+Graphic Communication and Printing
+Mass Communications and Media
+Mass Communication
+Public Relations
+Radio and Television Broadcasting Technician
+Radio, Television, and Digital Communication
+Recording Arts Technician
+Organizational Communication
+Speech Communication and Rhetoric
+Computer and Information Sciences
+Computer and IT Administration
+Computer and Information Systems Security
+IT Services Administration
+Multimedia Management and Webmaster
+Network, Database, and System Administration
+System, Networking, and LAN/WAN Management
+Computer Programming
+Computer Science
+Computer Systems
+Computer Systems Analysis
+Computer Systems Networking and Telecommunications
+Data Processing
+Data Entry
+Data Processing Technician
+Digital Design
+Computer Graphics
+Web Page and Digital Design
+Information Studies
+Artificial Intelligence
+Computer and Information Studies
+Information Technology
+Education
+Education Studies and Research
+Bilingual and Multicultural Education
+Curriculum
+Educational Media Design
+Educational Research
+Foundations of Education
+Educational Administration and Supervision
+Educational Administration
+Educational, Instructional, and Curriculum Supervision
+Elementary and Middle School Administration
+High School Administration
+Higher Education Administration
+Superintendence and Educational System Administration
+Library Science
+Library and Archives Assisting
+Library Science and Administration
+School Librarian
+School Counseling
+College Student Counseling and Personnel Services
+School Counseling and Guidance Services
+Special Education
+Education of Individuals with Impairments and Disabilities
+Education of the Gifted and Talented
+Special Education and Teaching
+Teaching
+Adult and Continuing Education
+Agricultural Teacher Education
+Art Teacher Education
+Business Teacher Education
+Computer Teacher Education
+Early Childhood Education
+Elementary Education
+English and Speech Teacher Education
+Foreign Language Teacher Education
+Health Teacher Education
+High School Education
+History Teacher Education
+Kindergarten and Preschool Education
+Mathematics Teacher Education
+Middle School Education
+Music Teacher Education
+Physical Education Teaching and Coaching
+Reading Teacher Education
+Science Teacher Education
+Social Science Teacher Education
+Social Studies Teacher Education
+Teacher Education for Multiple Levels
+Teaching English as a Second Language
+Technical Teacher Education
+Technology Teacher Education
+Trade and Industrial Teacher Education
+Teaching Assistant
+Engineering
+Aerospace Engineering
+Aerospace and Aeronautical Engineering
+Aerospace Engineering Technician
+Agricultural and Environmental Engineering
+Agricultural Engineering
+Environmental Engineering
+Environmental Engineering Technician
+Water, Wastewater, and Recycling Technician
+Architectural Engineering and Technology
+Architectural Engineering
+Architectural Engineering Technician
+Biological Engineering
+Bioengineering and Biomedical Engineering
+Biomedical Technician
+Chemical Engineering
+Civil and Surveying Engineering
+Civil Engineering
+Civil Engineering Technician
+Surveying Engineering
+Surveying Technician
+Computer Engineering
+Computer Engineering Technician
+Computer Hardware Engineering
+Computer Software Engineering
+Computer Systems Technician
+Construction Engineering and Technology
+Construction Engineering
+Construction Engineering Technician
+Welding Engineering Technician
+Electrical and Communications Engineering
+Electrical and Electronics Engineering
+Electrical Engineering Technician
+Telecommunications Technician
+Engineering Drafting and Design
+Architectural Drafting (CAD/CADD)
+Drafting and Design Engineering Technician (CAD/CADD)
+Engineering Design
+Mechanical Drafting (CAD/CADD)
+Engineering Sciences and Mechanics
+Engineering Mechanics
+Engineering Physics
+Engineering Science
+Engineering Studies
+Industrial Engineering and Technology
+Industrial and Engineering Management
+Industrial Engineering
+Industrial Production Technician
+Industrial Technician
+Manufacturing Engineering and Technology
+Hazardous Materials and Industrial Safety Technician
+Manufacturing Engineering
+Manufacturing Engineering Technician
+Occupational Safety and Health Technician
+Quality Control Technician
+Mechanical Engineering and Technology
+Automotive Engineering Technician
+HVAC and Refrigeration Engineering Technician
+Instrumentation Technician
+Mechanical Engineering
+Mechanical Engineering Technician
+Robotics and Automation Engineering
+Robotics and Automation Engineering Technician
+Mineral and Petroleum Engineering
+Mining and Mineral Engineering
+Mining and Petroleum Technician
+Petroleum Engineering
+Nuclear Engineering and Technology
+Nuclear Engineering
+Nuclear Engineering Technician
+Operations Research
+Plastics and Materials Engineering
+Materials Engineering
+Textile and Plastics Engineering
+Systems Engineering
+Environmental Sciences
+Conservation and Environmental Studies
+Environmental and Marine Sciences
+Environmental Studies
+Natural Resources Conservation
+Sustainability Studies
+Forest Sciences
+Forest and Wood Sciences
+Forestry
+Natural Resource Management
+Forest Resources Management
+Natural Resource Recreation and Tourism
+Natural Resources Management and Policy
+Wildlife and Fisheries Management
+Health Care
+Alternative Medicine
+Acupuncture and Oriental Medicine
+Alternative Medical Systems and Holistic Health
+Midwifery
+Traditional Chinese Medicine
+Chiropractic Studies
+Communication Disorders
+Audiology
+Communication Sciences and Disorders
+Speech Language Pathology
+Speech Language Pathology Assistant
+Dental Studies
+Advanced Dentistry and Oral Sciences
+Dental Assisting
+Dental Hygiene
+Dentistry
+Diagnostics
+Cardiovascular Technician
+Clinical Laboratory Technician
+Diagnostic Technician
+Medical Laboratory Technician
+Nuclear and Industrial Radiologic Technology
+Phlebotomy Technician
+Radiologic Technician
+Sonographer and Ultrasound Technician
+Dietetics and Clinical Nutrition
+Emergency Care Attendant (EMT)
+Emergency Medical Technician (EMT Paramedic)
+Health and Medical Administrative Services
+Health Care Management
+Health Unit Coordinator and Manager
+Hospital Management
+Medical Insurance Billing and Claims
+Medical Insurance Coding
+Medical Management and Clinical Assistant
+Medical Office Assistant
+Medical Office Computer Specialist
+Medical Office Management
+Medical Reception
+Medical Records Administration
+Medical Records Technician
+Medical Secretary
+Medical Transcription
+Intervention and Treatment
+Athletic Training
+Intervention and Treatment Professions
+Nuclear Medical Technician
+Radiation Therapy
+Respiratory Care Therapy
+Surgical Technologist
+Medical Assisting
+Anesthesiologist Assistant
+Clinical Laboratory Assistant
+Medical Assistant
+Radiologist Assistant
+Respiratory Therapy Technician
+Medicine and Medical Studies
+Health Service Preparatory Studies
+Medicine
+Osteopathy
+Podiatry
+Pre-Medicine Studies
+Mental and Social Health Services
+Community Health Services and Counseling
+Marriage and Family Therapy and Counseling
+Medical Social Work
+Mental and Social Health Studies
+Mental Health Counseling
+Psychiatric and Mental Health Services
+Substance Abuse and Addiction Counseling
+Nursing
+Adult Health Nursing
+Family Practice and Pediatric Nursing
+Licensed Practical Nurse Training (LPN)
+Nurse Anesthetist
+Nursing Administration
+Nursing Assistant
+Nursing Science, Education, and Practice
+Registered Nursing (RN)
+Optometry
+Pharmacy and Pharmaceutical Sciences
+Pharmaceutical Sciences
+Pharmacy Studies
+Pharmacy Technician
+Physician Assistant
+Public Health
+Community Health and Preventive Medicine
+Environmental Health
+Health Services Administration
+Occupational Health and Industrial Hygiene
+Public Health Education
+Public Health Studies
+Rehabilitation and Therapy
+Alternative Therapeutic Professions
+Aromatherapy, Herbalism, and Reiki
+Health Aides and Attendants
+Massage Therapy and Bodywork
+Occupational Therapist Assistant
+Occupational Therapy
+Physical Therapy
+Physical Therapy Technician
+Therapeutic Recreation
+Vocational Rehabilitation Counseling
+Yoga and Movement Therapy
+Veterinary Studies
+Veterinary Medicine
+Veterinary Sciences
+Veterinary Technician and Assistant
+Languages and Literature
+English
+Creative Writing
+English Language Studies
+Literature
+Professional, Technical, Business, and Scientific Writing
+Rhetoric and Composition
+Language Studies and Linguistics
+Comparative Literature
+Foreign Languages and Literatures
+Linguistics, Interpretation, and Translation
+Regional Language and Literature Studies
+Arabic Language and Literature
+Chinese Language and Literature
+East Asian Languages and Literatures
+German Language and Literature
+Hebrew Language and Literature
+Japanese Language and Literature
+Latin and Ancient Greek Studies
+Russian and Eastern European Languages and Literature
+South and Southeast Asian Languages and Literatures
+Romance Languages
+French Language and Literature
+Italian Language and Literature
+Romance Languages and Literatures
+Spanish Language and Literature
+Sign Language
+American Sign Language (ASL)
+Sign Language Interpretation and Translation
+Law
+Advanced Legal Studies
+Advanced Legal Research
+Banking, Corporate, and Tax Law
+Energy, Environment, and Natural Resources Law
+Health Law
+Intellectual Property Law
+International Legal Studies
+Programs for Foreign Lawyers
+US Law
+Court Reporting
+Law and Legal Studies
+Law Studies
+Legal Studies
+Pre-Law Studies
+Legal Administrative Assistant
+Paralegal
+Mathematics & Statistics
+Computational and Applied Mathematics
+Mathematics
+Statistics
+Mechanics and Repair
+Electronics Maintenance and Repair
+Communications Systems Installation and Repair
+Computer Installation and Repair
+Electronics Equipment Installation and Repair
+Industrial Electronics Technician
+Equipment Maintenance
+Heavy Equipment Maintenance Technician
+Industrial Mechanics and Maintenance Technician
+General Mechanics and Repair
+HVAC Technician
+Precision Systems Maintenance and Repair
+Vehicle Maintenance and Repair Technologies
+Aircraft Maintenance
+Aircraft Powerplant Technician
+Autobody and Collision Repair
+Automotive Mechanics
+Avionics Maintenance Technician
+Bicycle Mechanics and Repair
+Diesel Mechanics
+Motorcycle Maintenance and Repair
+Small Engine Mechanics and Repair
+Vehicle Maintenance and Repair
+Military Science
+Intelligence and Information
+Information Operations
+Intelligence
+Military Applied Sciences
+Combat Systems Engineering and Stealth Technology
+Space and Undersea Systems Operations
+Military Systems Technology
+Air, Space, and Radar Technology
+Military Information Systems and Missile Technology
+Military Technologies
+Philosophy and Religion
+Philosophy Studies
+Ethics
+Logic
+Philosophy
+Religion
+Buddhism
+Christianity
+Hinduism
+Islam
+Judaism
+Religious Studies
+Theology and Religious Vocations
+Biblical Studies
+Divinity, Ministry, and Pre-Theology
+Missionary Studies
+Pastoral Counseling and Specialized Ministries
+Religious Education
+Talmudic and Rabbinical Studies
+Theological and Ministerial Studies
+Physical Sciences
+Astronomy and Astrophysics
+Astronomy
+Astrophysics
+Atmospheric Sciences and Meteorology
+Atmospheric Sciences
+Climatology
+Meteorology
+Chemistry and Chemical Technology
+Chemical Technician
+Chemistry
+Earth Sciences
+Geology and Earth Science
+Natural Sciences
+Materials Science
+Optics
+Physical Science Studies
+Physics
+Systems Science and Theory
+Protective Services
+Criminal Justice and Corrections
+Corrections and Corrections Administration
+Criminal Justice and Law Enforcement Administration
+Criminal Justice and Safety Studies
+Fire Protection
+Fire Prevention and Safety Technology
+Fire Science and Fire Fighting
+Fire Services Administration
+Forensic Science and Technology
+Homeland Security
+Police and Criminal Science
+Security and Loss Prevention Services
+Psychology & Counseling
+Clinical Psychology and Counseling
+Clinical Psychology
+Community Psychology
+Counseling Psychology
+Forensic Psychology
+Industrial and Organizational Psychology
+School Psychology
+Psychology
+Psychology Studies
+Developmental and Child Psychology
+Physiological Psychology
+Research and Experimental Psychology
+Social Psychology
+Recreation & Fitness
+Health and Physical Fitness Education
+Kinesiology and Exercise Science
+Parks and Recreation
+Parks, Recreation and Leisure Facilities Management
+Parks, Recreation and Leisure Studies
+Sport and Fitness Management
+Services
+Animal Services
+Animal Grooming
+Animal Training
+Taxidermy
+Child Care Services
+Child Care Management
+Child Care Provider
+Cosmetology and Personal Grooming Services
+Barbering
+Cosmetology
+Cosmetology Instruction and Salon Management
+Esthetician and Skin Care
+Facial Treatment
+Hair Styling and Design
+Make-Up Artist and Tattooing
+Nail Technician
+Personal Services
+Culinary Arts and Food Service
+Baking and Pastry Arts
+Bartending
+Cooking and Culinary Science
+Culinary Arts
+Food Preparation and Service
+Restaurant, Culinary, and Catering Management
+Funeral Service and Mortuary Science
+Funeral Service and Direction
+Mortuary Science and Embalming
+Skilled Trades and Construction
+Boilermaker
+Carpentry and Construction
+Carpentry
+General Construction Trades
+Woodworking
+Concrete and Masonry
+Concrete Finishing
+Masonry
+Construction Finishing and Inspection
+Building Construction Inspection
+Building Construction Technology
+Carpet, Floor, and Tile Worker
+Drywall Installation
+Glazier
+Industrial Painting
+Insulator
+Metal Building Assembly
+Property Maintenance and Site Management
+Roofer
+Electrical Trades
+Electrical and Power Transmission Installation
+Electrician
+Lineworker
+Leatherworking and Upholstery
+Machine and Metal Working
+Machine Shop Assistant
+Machinist
+Sheet Metal Technology
+Tool and Die Technician
+Plumbing Trades
+Pipefitting
+Plumbing
+Precision Production
+Welding
+Social Sciences & Liberal Arts
+Area and Ethnic Studies
+African American Studies
+African Studies
+Asian Studies
+European and Russian Studies
+Hispanic American Studies
+Latin American Studies
+Minority and Group Studies
+North American Studies
+Regional and Area Studies
+Women's Studies
+Consumer and Retail Merchandising
+Apparel and Textile Science
+Retailing Management
+Economics
+Economic Development
+Economics and Econometrics
+Family and Consumer Economics
+Family Studies and Consumer Sciences
+Food and Nutrition Studies
+Food Service Systems Management
+Foods, Nutrition, and Wellness Studies
+Nutrition Sciences
+History
+Human Development
+Adult Development and Aging
+Behavioral Sciences
+Child Development
+Cognitive Science
+Family and Community Services
+International Studies and Government
+International Relations and National Security Studies
+International Studies
+Peace Studies and Conflict Resolution
+Political Science and Government
+Liberal Arts and Humanities
+Social Sciences
+Anthropology and Archaeology
+Criminology
+Geography
+Gerontology
+Social Science Research Methods
+Sociology
+Urban Studies and Affairs
+Social Services
+Community Organization and Advocacy
+Human Services
+Public Policy, Administration, and Social Work
+Public Administration
+Public Policy Analysis
+Social Work and Youth Services
+Transportation
+Air Transportation
+Aeronautics and Aviation Technology
+Air Traffic Control
+Airline Flight Attendant
+Aviation Management and Operations
+Flight Instructor
+Professional Pilot
+Ground Transportation
+Construction and Heavy Equipment Operation
+Truck, Bus, and Commercial Vehicle Operation
+Marine Transportation
+Commercial Fishing
+Marine Science
+Professional Diver and Instructor
+Transportation and Materials Moving
+Railroad and Railway Transportation
